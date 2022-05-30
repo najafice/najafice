@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on Numerical Modeling of Natural Hazards with FEM/MPM approach.
 - 🎒 My goal is getting better in Python and starting to collaborate in Open Source Projects.
 
-* Please check my web for more information. (https://najafice.github.io/)
+Please check my web for more information. (najafice.github.io)
